@@ -1,1 +1,0 @@
-native2ascii init_sourse.properties init_zh_CN.properties
